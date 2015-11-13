@@ -34,6 +34,7 @@
 
 #include <string>
 
+#include "client/linux/crash_generation/client_info.h"
 #include "common/using_std_string.h"
 
 namespace google_breakpad {

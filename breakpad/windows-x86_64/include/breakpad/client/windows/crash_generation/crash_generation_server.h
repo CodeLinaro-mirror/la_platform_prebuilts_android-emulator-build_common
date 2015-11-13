@@ -33,6 +33,7 @@
 #include <list>
 #include <string>
 #include "client/windows/common/ipc_protocol.h"
+#include "client/windows/crash_generation/client_info.h"
 #include "client/windows/crash_generation/minidump_generator.h"
 #include "common/scoped_ptr.h"
 
