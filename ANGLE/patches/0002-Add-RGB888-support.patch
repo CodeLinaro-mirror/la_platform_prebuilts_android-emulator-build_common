@@ -1,7 +1,7 @@
 From 663774df637895d15f893327b1585e0ec789b1a0 Mon Sep 17 00:00:00 2001
 From: unknown <lfy@lfy0-w.ad.corp.google.com>
 Date: Wed, 30 Mar 2016 12:03:10 -0700
-Subject: [PATCH 2/2] Add RGB888 support
+Subject: [PATCH 2/3] Add RGB888 support
 
 ---
  src/libANGLE/Config.cpp                      | 9 ++++-----
